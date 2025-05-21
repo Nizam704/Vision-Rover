@@ -22,7 +22,7 @@ Engr. Atif Saeed (Assistant Professor)
 - `/thesis`: Complete project thesis document (`VisionRover_Thesis.pdf`)
 - `/code`: Source code (Arduino sketches, ESP32/ESP32-CAM, VR web interface)
 - `/video_demonstration`: Demonstration videos of VisionRover
-- `/portfolio`: Summaries, images, and project highlights
+- `/portfolio`: Logo, Standee and Brochure Design
 - `/presentation`: Presentation slides and materials
 - `/design`: Design files (SolidWorks 3D models, TinkerCad diagrams, flowcharts)
 
